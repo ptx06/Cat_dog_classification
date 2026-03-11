@@ -11,6 +11,10 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+<<<<<<< HEAD
     print_hi('你好啊audotl233(⊙o⊙)…3t4')
+=======
+    print_hi('我在github上作了修改')
+>>>>>>> 4eb7e9119e76013757014c5ff39c62f6d1299e7e
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
