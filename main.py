@@ -11,7 +11,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('你好啊audotl233(⊙o⊙)…3t4')
+    print_hi('audodl修改2')
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
