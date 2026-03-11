@@ -1,3 +1,13 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+data/
+experiments/
+__pycache__/
+*.pyc
+*.pth
+*.log
+.DS_Store
+.vscode/
+.idea/
+deployments/simple_api/__pycache__/
