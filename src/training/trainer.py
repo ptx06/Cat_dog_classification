@@ -14,6 +14,7 @@ class Trainer:
         self.config = config
         self.device = device
         self.criterion = nn.CrossEntropyLoss()
+        weight_decay = float(config['train']['weight_decay'])
         self.optimizer = optim.SGD(model.parameters(), lr=config['train']['lr'],
                                     momentum=config['train']['momentum'],
                                     weight_decay=config['train']['weight_decay'])
